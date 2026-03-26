@@ -15,4 +15,9 @@ npx hardhat run scripts/deploy.ts --network localhost
 cd frontend
 npm run dev
 
-Reset Metamask wallet
+-----------------------------------------------------
+
+Per avviare il progetto utilizzare i file .bat, 
+start_project.bat -> avvia il progetto
+reset-start_project -> resetta e avvia il progetto
+create-election.bat -> crea elezioni di test

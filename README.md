@@ -198,9 +198,3 @@ Assicurarsi di avere installato:
 - Git
 
 ---
-
-### 9.2 Clonazione del Repository
-
-```bash
-git clone <URL_DEL_REPOSITORY>
-cd <NOME_PROGETTO>

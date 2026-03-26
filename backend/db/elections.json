@@ -1,0 +1,204 @@
+[
+  {
+    "id": "0",
+    "title": "fabio ",
+    "description": "",
+    "image": null,
+    "startTime": 1774518900,
+    "endTime": 1774605360,
+    "resultsHidden": false,
+    "allowMultiple": false,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "a",
+        "image": null,
+        "description": "",
+        "party": ""
+      },
+      {
+        "id": 1,
+        "name": "s",
+        "image": null,
+        "description": "",
+        "party": ""
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Municipal Elections 2024",
+    "description": "Currently active.",
+    "image": null,
+    "startTime": 1774346225,
+    "endTime": 1774519025,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Mario Rossi",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "Luigi Bianchi",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Future Vote 2026",
+    "description": "Scheduled to start in 2 days.",
+    "image": null,
+    "startTime": 1774605425,
+    "endTime": 1774778225,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Alice",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "Bob",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "May Referendum",
+    "description": "Planned for next month.",
+    "image": null,
+    "startTime": 1777024625,
+    "endTime": 1777111025,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Yes",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "No",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Video Game Awards 2023",
+    "description": "Concluded.",
+    "image": null,
+    "startTime": 1773568625,
+    "endTime": 1774000625,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Zelda",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "Baldur's Gate",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Barista Championship 2023",
+    "description": "Results archived.",
+    "image": null,
+    "startTime": 1774259825,
+    "endTime": 1774346225,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Bar Stella",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "Caffè Roma",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Cancelled Election A",
+    "description": "Terminated by administrator.",
+    "image": null,
+    "startTime": 1774519025,
+    "endTime": 1774605425,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Test 1",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "Test 2",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Cancelled Election B",
+    "description": "Removed due to contestation.",
+    "image": null,
+    "startTime": 1774519025,
+    "endTime": 1774605425,
+    "isCancelled": false,
+    "candidates": [
+      {
+        "id": 0,
+        "name": "Test 3",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      },
+      {
+        "id": 1,
+        "name": "Test 4",
+        "image": null,
+        "party": "Test List",
+        "description": "Automated test candidate"
+      }
+    ]
+  }
+]

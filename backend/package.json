@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "seed": "node ../scripts/seedElections.js",
+  "clean:data": "node ../scripts/cleanElections.js",
+  "clean:img": "node ../scripts/cleanImages.js",
+  "clean:all": "npm run clean:data && npm run clean:img"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  }
+}

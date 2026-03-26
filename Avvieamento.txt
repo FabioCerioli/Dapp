@@ -1,0 +1,18 @@
+Primo terminale:
+cd Desktop/progetto-voto
+npx hardhat node
+
+
+Secondo terminale:
+cd Desktop/progetto-voto/backend
+npm run clean:all
+node server.js
+
+Terzo terminale:
+cd Desktop/progetto-voto
+npx hardhat run scripts/deploy.ts --network localhost
+
+cd frontend
+npm run dev
+
+Reset Metamask wallet
